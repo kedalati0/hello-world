@@ -6,11 +6,8 @@ This is kiu
 * 1 lime
 * 1 onion
 * tsp salt
-* tomato
 
 ##instruction
 
-
 1. chop
-2. chop tomato
-2. mix
+2.mix
